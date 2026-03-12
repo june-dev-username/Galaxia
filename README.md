@@ -4,10 +4,11 @@ This is kind of a developer backend for me testing things before I push it to GT
 
 
 If the mod is in a usable state when you see this message, please do not build or download it from here.
+There also may be nothing here at any given moment, as it was never intended to be the actual place galaxia is stored.
 This repo is not designed for players or beta testers, solely for developers to use as a testing ground for hazardous changes.
 Downloading anything from here is sure to cause problems, I can nearly guarentee it. If something works, it will most likely be in GTNH's repo.
 
 
-As of Februrary 8th 2026, there is no timeline for release. Check with GTNH's repo for the mod to see more up to date stuff on how we're doing, or check the design doc.
+As of March 12th 2026, there is no timeline for release. Check with GTNH's repo for the mod to see more up to date stuff on how we're doing, or check the design doc.
 
 https://docs.google.com/document/d/1I0_qtxRzEGk6KiOuNXg74zO9CaGzLLQCIhR4LTER1zo/edit?pli=1&tab=t.0#heading=h.g9gnncbmqjxg
